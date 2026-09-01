@@ -19,6 +19,7 @@ python reservas_cine.py
 4. Ingresar la fila (0,1,2) cuando se solicite
 5. Ingresar la columna (0,1,2 o 3) cuando se solicite
 6. Se mostrará el estado actualizado de toda la sala 
+
 ## Caracteristicas Implementadas
 Matriz creada
 
